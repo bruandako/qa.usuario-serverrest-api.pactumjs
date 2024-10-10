@@ -1,0 +1,3 @@
+[submodule "qa.core-serverrest-api.pactumjs"]
+	path = qa.core-serverrest-api.pactumjs
+	url = https://github.com/bruandako/qa.core-serverrest-api.pactumjs.git
